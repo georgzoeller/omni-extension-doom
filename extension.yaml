@@ -1,0 +1,16 @@
+title: Doom
+version: 0.0.1
+description: The traditional Hello World example, based on https://codepen.io/nodws/pen/VWOLPZ
+author: Georg Zoeller
+origin: https://github.com/georgzoeller/omni-extension-doom.git
+client:
+  addToWorkbench: true
+  singleton: true
+  winbox:
+    width: 640,
+    height: 400,
+    minheight: 640,
+    minwidth: 400,
+    maxheight: 640,
+    maxwidth: 400,
+    autosize: true

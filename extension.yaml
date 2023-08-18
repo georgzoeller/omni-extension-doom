@@ -7,10 +7,10 @@ client:
   addToWorkbench: true
   singleton: true
   winbox:
-    width: 640,
-    height: 400,
-    minheight: 640,
-    minwidth: 400,
-    maxheight: 640,
-    maxwidth: 400,
+    width: 641px,
+    height: 435px,
+    minheight: 435px,
+    minwidth: 641px,
+    maxheight: 435px,
+    maxwidth: 641px,
     autosize: true
